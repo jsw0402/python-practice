@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+game/
+test.txt/
+새파일.txt/
